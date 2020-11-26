@@ -1,4 +1,4 @@
 # LeetCode
-LeetCode 解题 <br>
-code 所有问题的解答代码<br>
-data 测试函数是否正确的验证数据<br>
+记录LeetCode的解题代码。
+## code
+题库的solution 代码
